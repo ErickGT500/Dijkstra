@@ -1,0 +1,85 @@
+C:\Users\cruz_\Desktop\Pruebas\Pruebas\bin\Debug\Pruebas.exe
+C:\Users\cruz_\Desktop\Pruebas\Pruebas\bin\Debug\Pruebas.pdb
+C:\Users\cruz_\Desktop\Pruebas\Pruebas\obj\Debug\Pruebas.csprojResolveAssemblyReference.cache
+C:\Users\cruz_\Desktop\Pruebas\Pruebas\obj\Debug\Pruebas.MainForm.resources
+C:\Users\cruz_\Desktop\Pruebas\Pruebas\obj\Debug\Pruebas.csproj.GenerateResource.Cache
+C:\Users\cruz_\Desktop\Pruebas\Pruebas\obj\Debug\Pruebas.exe
+C:\Users\cruz_\Desktop\Pruebas\Pruebas\obj\Debug\Pruebas.pdb
+C:\Users\cruz_\Desktop\SemAlgoritmia\Pruebas\Pruebas\bin\Debug\Pruebas.exe
+C:\Users\cruz_\Desktop\SemAlgoritmia\Pruebas\Pruebas\bin\Debug\Pruebas.pdb
+C:\Users\cruz_\Desktop\SemAlgoritmia\Pruebas\Pruebas\obj\Debug\Pruebas.csprojResolveAssemblyReference.cache
+C:\Users\cruz_\Desktop\SemAlgoritmia\Pruebas\Pruebas\obj\Debug\Pruebas.MainForm.resources
+C:\Users\cruz_\Desktop\SemAlgoritmia\Pruebas\Pruebas\obj\Debug\Pruebas.csproj.GenerateResource.Cache
+C:\Users\cruz_\Desktop\SemAlgoritmia\Pruebas\Pruebas\obj\Debug\Pruebas.exe
+C:\Users\cruz_\Desktop\SemAlgoritmia\Pruebas\Pruebas\obj\Debug\Pruebas.pdb
+C:\Users\cruz_\Desktop\Seminario de algoritmia\LlanosRosasLuisFernandoCF\Pruebas\Pruebas\bin\Debug\Pruebas.exe
+C:\Users\cruz_\Desktop\Seminario de algoritmia\LlanosRosasLuisFernandoCF\Pruebas\Pruebas\bin\Debug\Pruebas.pdb
+C:\Users\cruz_\Desktop\Seminario de algoritmia\LlanosRosasLuisFernandoCF\Pruebas\Pruebas\obj\Debug\Pruebas.csprojResolveAssemblyReference.cache
+C:\Users\cruz_\Desktop\Seminario de algoritmia\LlanosRosasLuisFernandoCF\Pruebas\Pruebas\obj\Debug\Pruebas.MainForm.resources
+C:\Users\cruz_\Desktop\Seminario de algoritmia\LlanosRosasLuisFernandoCF\Pruebas\Pruebas\obj\Debug\Pruebas.csproj.GenerateResource.Cache
+C:\Users\cruz_\Desktop\Seminario de algoritmia\LlanosRosasLuisFernandoCF\Pruebas\Pruebas\obj\Debug\Pruebas.exe
+C:\Users\cruz_\Desktop\Seminario de algoritmia\LlanosRosasLuisFernandoCF\Pruebas\Pruebas\obj\Debug\Pruebas.pdb
+C:\Users\cruz_\Desktop\Actividad02\LlanosRosasLuisFernandoCF\Pruebas\Pruebas\bin\Debug\Pruebas.exe
+C:\Users\cruz_\Desktop\Actividad02\LlanosRosasLuisFernandoCF\Pruebas\Pruebas\bin\Debug\Pruebas.pdb
+C:\Users\cruz_\Desktop\Actividad02\LlanosRosasLuisFernandoCF\Pruebas\Pruebas\obj\Debug\Pruebas.csprojResolveAssemblyReference.cache
+C:\Users\cruz_\Desktop\Actividad02\LlanosRosasLuisFernandoCF\Pruebas\Pruebas\obj\Debug\Pruebas.MainForm.resources
+C:\Users\cruz_\Desktop\Actividad02\LlanosRosasLuisFernandoCF\Pruebas\Pruebas\obj\Debug\Pruebas.csproj.GenerateResource.Cache
+C:\Users\cruz_\Desktop\Actividad02\LlanosRosasLuisFernandoCF\Pruebas\Pruebas\obj\Debug\Pruebas.exe
+C:\Users\cruz_\Desktop\Actividad02\LlanosRosasLuisFernandoCF\Pruebas\Pruebas\obj\Debug\Pruebas.pdb
+C:\Users\cruz_\Desktop\Seminario de algoritmia\Actividad02\LlanosRosasLuisFernandoCF\Pruebas\Pruebas\bin\Debug\Pruebas.exe
+C:\Users\cruz_\Desktop\Seminario de algoritmia\Actividad02\LlanosRosasLuisFernandoCF\Pruebas\Pruebas\bin\Debug\Pruebas.pdb
+C:\Users\cruz_\Desktop\Seminario de algoritmia\Actividad02\LlanosRosasLuisFernandoCF\Pruebas\Pruebas\obj\Debug\Pruebas.csprojResolveAssemblyReference.cache
+C:\Users\cruz_\Desktop\Seminario de algoritmia\Actividad02\LlanosRosasLuisFernandoCF\Pruebas\Pruebas\obj\Debug\Pruebas.MainForm.resources
+C:\Users\cruz_\Desktop\Seminario de algoritmia\Actividad02\LlanosRosasLuisFernandoCF\Pruebas\Pruebas\obj\Debug\Pruebas.csproj.GenerateResource.Cache
+C:\Users\cruz_\Desktop\Seminario de algoritmia\Actividad02\LlanosRosasLuisFernandoCF\Pruebas\Pruebas\obj\Debug\Pruebas.exe
+C:\Users\cruz_\Desktop\Seminario de algoritmia\Actividad02\LlanosRosasLuisFernandoCF\Pruebas\Pruebas\obj\Debug\Pruebas.pdb
+C:\Users\cruz_\Desktop\Actividad 03\LlanosRosasLuisFernandoCF\Pruebas\Pruebas\obj\Debug\Pruebas.csprojResolveAssemblyReference.cache
+C:\Users\cruz_\Desktop\Actividad 03\LlanosRosasLuisFernandoCF\Pruebas\Pruebas\obj\Debug\Pruebas.MainForm.resources
+C:\Users\cruz_\Desktop\Actividad 03\LlanosRosasLuisFernandoCF\Pruebas\Pruebas\obj\Debug\Pruebas.csproj.GenerateResource.Cache
+C:\Users\cruz_\Desktop\Actividad 03\LlanosRosasLuisFernandoCF\Pruebas\Pruebas\obj\Debug\Pruebas.exe
+C:\Users\cruz_\Desktop\Actividad 03\LlanosRosasLuisFernandoCF\Pruebas\Pruebas\obj\Debug\Pruebas.pdb
+C:\Users\cruz_\Desktop\Actividad 03\LlanosRosasLuisFernandoCF\Pruebas\Pruebas\bin\Debug\Pruebas.exe
+C:\Users\cruz_\Desktop\Actividad 03\LlanosRosasLuisFernandoCF\Pruebas\Pruebas\bin\Debug\Pruebas.pdb
+C:\Users\cruz_\Desktop\Actividad04\Pruebas\Pruebas\bin\Debug\Pruebas.exe
+C:\Users\cruz_\Desktop\Actividad04\Pruebas\Pruebas\bin\Debug\Pruebas.pdb
+C:\Users\cruz_\Desktop\Actividad04\Pruebas\Pruebas\obj\Debug\Pruebas.csprojResolveAssemblyReference.cache
+C:\Users\cruz_\Desktop\Actividad04\Pruebas\Pruebas\obj\Debug\Pruebas.MainForm.resources
+C:\Users\cruz_\Desktop\Actividad04\Pruebas\Pruebas\obj\Debug\Pruebas.csproj.GenerateResource.Cache
+C:\Users\cruz_\Desktop\Actividad04\Pruebas\Pruebas\obj\Debug\Pruebas.exe
+C:\Users\cruz_\Desktop\Actividad04\Pruebas\Pruebas\obj\Debug\Pruebas.pdb
+C:\Users\erick\OneDrive\Escritorio\Pruebas\Pruebas\obj\Debug\Pruebas.csprojResolveAssemblyReference.cache
+C:\Users\erick\OneDrive\Escritorio\Pruebas\Pruebas\obj\Debug\Pruebas.csproj.GenerateResource.Cache
+C:\Users\erick\OneDrive\Escritorio\Pruebas\Pruebas\obj\Debug\Pruebas.exe
+C:\Users\erick\OneDrive\Escritorio\Pruebas\Pruebas\obj\Debug\Pruebas.pdb
+C:\Users\erick\OneDrive\Escritorio\Pruebas\Pruebas\bin\Debug\Pruebas.exe
+C:\Users\erick\OneDrive\Escritorio\Pruebas\Pruebas\bin\Debug\Pruebas.pdb
+C:\Users\erick\OneDrive\Escritorio\Pruebas\Pruebas\obj\Debug\Dijkstra.MainForm.resources
+C:\Users\erick\OneDrive\Escritorio\Seminario de Algoritmia\Pruebas\Pruebas\bin\Debug\Pruebas.exe
+C:\Users\erick\OneDrive\Escritorio\Seminario de Algoritmia\Pruebas\Pruebas\bin\Debug\Pruebas.pdb
+C:\Users\erick\OneDrive\Escritorio\Seminario de Algoritmia\Pruebas\Pruebas\obj\Debug\Pruebas.csprojResolveAssemblyReference.cache
+C:\Users\erick\OneDrive\Escritorio\Seminario de Algoritmia\Pruebas\Pruebas\obj\Debug\Dijkstra.MainForm.resources
+C:\Users\erick\OneDrive\Escritorio\Seminario de Algoritmia\Pruebas\Pruebas\obj\Debug\Pruebas.csproj.GenerateResource.Cache
+C:\Users\erick\OneDrive\Escritorio\Seminario de Algoritmia\Pruebas\Pruebas\obj\Debug\Pruebas.exe
+C:\Users\erick\OneDrive\Escritorio\Seminario de Algoritmia\Pruebas\Pruebas\obj\Debug\Pruebas.pdb
+C:\Users\erick\OneDrive\Escritorio\Seminario de Algoritmia\Etapa 4 - Dijkstra\Pruebas\Pruebas\bin\Debug\Pruebas.exe
+C:\Users\erick\OneDrive\Escritorio\Seminario de Algoritmia\Etapa 4 - Dijkstra\Pruebas\Pruebas\bin\Debug\Pruebas.pdb
+C:\Users\erick\OneDrive\Escritorio\Seminario de Algoritmia\Etapa 4 - Dijkstra\Pruebas\Pruebas\obj\Debug\Pruebas.csprojResolveAssemblyReference.cache
+C:\Users\erick\OneDrive\Escritorio\Seminario de Algoritmia\Etapa 4 - Dijkstra\Pruebas\Pruebas\obj\Debug\Dijkstra.MainForm.resources
+C:\Users\erick\OneDrive\Escritorio\Seminario de Algoritmia\Etapa 4 - Dijkstra\Pruebas\Pruebas\obj\Debug\Pruebas.csproj.GenerateResource.Cache
+C:\Users\erick\OneDrive\Escritorio\Seminario de Algoritmia\Etapa 4 - Dijkstra\Pruebas\Pruebas\obj\Debug\Pruebas.exe
+C:\Users\erick\OneDrive\Escritorio\Seminario de Algoritmia\Etapa 4 - Dijkstra\Pruebas\Pruebas\obj\Debug\Pruebas.pdb
+C:\Users\erick\OneDrive\Escritorio\INCO\6to Semestre\Seminario de Algoritmia\Etapa 4 - Dijkstra\Pruebas\Pruebas\bin\Debug\Pruebas.exe
+C:\Users\erick\OneDrive\Escritorio\INCO\6to Semestre\Seminario de Algoritmia\Etapa 4 - Dijkstra\Pruebas\Pruebas\bin\Debug\Pruebas.pdb
+C:\Users\erick\OneDrive\Escritorio\INCO\6to Semestre\Seminario de Algoritmia\Etapa 4 - Dijkstra\Pruebas\Pruebas\obj\Debug\Pruebas.csprojResolveAssemblyReference.cache
+C:\Users\erick\OneDrive\Escritorio\INCO\6to Semestre\Seminario de Algoritmia\Etapa 4 - Dijkstra\Pruebas\Pruebas\obj\Debug\Dijkstra.MainForm.resources
+C:\Users\erick\OneDrive\Escritorio\INCO\6to Semestre\Seminario de Algoritmia\Etapa 4 - Dijkstra\Pruebas\Pruebas\obj\Debug\Pruebas.csproj.GenerateResource.Cache
+C:\Users\erick\OneDrive\Escritorio\INCO\6to Semestre\Seminario de Algoritmia\Etapa 4 - Dijkstra\Pruebas\Pruebas\obj\Debug\Pruebas.exe
+C:\Users\erick\OneDrive\Escritorio\INCO\6to Semestre\Seminario de Algoritmia\Etapa 4 - Dijkstra\Pruebas\Pruebas\obj\Debug\Pruebas.pdb
+C:\Users\erick\OneDrive\Escritorio\CarpetaEscritorio\INCO\6to Semestre\Seminario de Algoritmia\Etapa 4 - Dijkstra\Pruebas\Pruebas\bin\Debug\Pruebas.exe
+C:\Users\erick\OneDrive\Escritorio\CarpetaEscritorio\INCO\6to Semestre\Seminario de Algoritmia\Etapa 4 - Dijkstra\Pruebas\Pruebas\bin\Debug\Pruebas.pdb
+C:\Users\erick\OneDrive\Escritorio\CarpetaEscritorio\INCO\6to Semestre\Seminario de Algoritmia\Etapa 4 - Dijkstra\Pruebas\Pruebas\obj\Debug\Pruebas.csproj.AssemblyReference.cache
+C:\Users\erick\OneDrive\Escritorio\CarpetaEscritorio\INCO\6to Semestre\Seminario de Algoritmia\Etapa 4 - Dijkstra\Pruebas\Pruebas\obj\Debug\Dijkstra.MainForm.resources
+C:\Users\erick\OneDrive\Escritorio\CarpetaEscritorio\INCO\6to Semestre\Seminario de Algoritmia\Etapa 4 - Dijkstra\Pruebas\Pruebas\obj\Debug\Pruebas.csproj.GenerateResource.cache
+C:\Users\erick\OneDrive\Escritorio\CarpetaEscritorio\INCO\6to Semestre\Seminario de Algoritmia\Etapa 4 - Dijkstra\Pruebas\Pruebas\obj\Debug\Pruebas.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Escritorio\CarpetaEscritorio\INCO\6to Semestre\Seminario de Algoritmia\Etapa 4 - Dijkstra\Pruebas\Pruebas\obj\Debug\Pruebas.exe
+C:\Users\erick\OneDrive\Escritorio\CarpetaEscritorio\INCO\6to Semestre\Seminario de Algoritmia\Etapa 4 - Dijkstra\Pruebas\Pruebas\obj\Debug\Pruebas.pdb
